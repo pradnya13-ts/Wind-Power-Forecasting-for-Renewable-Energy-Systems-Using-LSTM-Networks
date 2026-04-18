@@ -80,7 +80,7 @@ After downloading, place files like this before running the notebook:
 
 <div align="center">
 
-![LSTM Architecture](lstm_architecture.png)
+![LSTM Architecture](lstm_arch.png)
 
 </div>
 
